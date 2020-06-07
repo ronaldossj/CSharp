@@ -1,2 +1,2 @@
-# Estudos-C-
-Estudos de C#
+# Estudos-C-#
+Estudos direcionados a C#
